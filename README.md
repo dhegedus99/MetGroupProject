@@ -1,5 +1,6 @@
 # MetGroupProject
 For our Group project in Research Training
+**Use the TopographyNotebook and WindNotebook for collaborative code - I combined all previous code from the other notebooks**
 
 If you have any questions, issues or git gives you any errors let me know and I can probably help, but this is all I could remember off the top of my head.
 # Getting started with Github
