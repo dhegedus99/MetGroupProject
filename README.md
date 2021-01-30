@@ -19,7 +19,7 @@ If you have any questions, issues or git gives you any errors let me know and I 
 3. Switch to a new branch using <code>git checkout -b NewBranchName</code> 
   - include your name in the branch name so we can keep track which branch belongs to whom
   - you can switch between existing branches using <code>git checkout BranchName</code>
-  - you can go back to the main branch using <code>git checkout -m</code>
+  - you can go back to the main branch using <code>git checkout main</code>
 4. Use <code>git push --set-upstream origin NewBranchName</code> to make sure that the Github repo knows there's a new branch to track
   - you can use this after you have made al of your edits to the files, then it will also give you a link to create a pull request on Github (see next heading)
 5. You can check if your branch is up-to-date with your local copy using <code>git status</code>
