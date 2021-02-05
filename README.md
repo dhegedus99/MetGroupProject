@@ -3,6 +3,8 @@ For our Group project in Research Training
 
 **Use the TopographyNotebook and WindNotebook for collaborative code - I combined all previous code from the other notebooks**
 
+**NOTE: If you have been working in a separate notebook to write your code, before you copy everything into the TopographyNotebook and WindNotebook, use <code>git rebase origin/main</code> to update the version you see on your branch to avoid merge conflicts.** (You do this while being on your own branch)
+
 If you have any questions, issues or git gives you any errors let me know and I can probably help, but this is all I could remember off the top of my head.
 # Getting started with Github
 1. Create an account on Github
@@ -35,6 +37,7 @@ If you have any questions, issues or git gives you any errors let me know and I 
   - if you do <code>git status</code> now, it should say "Your branch is ahead of 'origin/Branchname' by 1 commit"
 11. Push the changes to the Github repo to updatethe files on there using <code>git push</code>
   - if you do <code>git status</code> now, it should say "Your branch is up to date with 'origin/Branchname'."
+
 # When you are finished with the task and want to merge the branch you have with the master branch
 1. Create a pull requestfor your branch on github so others can review it and merge it accordingly
   - make sure you have pushed everything to your branch with <code>git push</code> and created an upstream for your branch
