@@ -23,7 +23,7 @@ If you have any questions, issues or git gives you any errors let me know and I 
   - you can switch between existing branches using <code>git checkout BranchName</code>
   - you can go back to the main branch using <code>git checkout main</code>
   - I recommend writing new code in a separate notebook (unless you're commenting existing code) and adding it to the WindNotebook/TopographyNotebook on your branch at the very end
-    - make sure you have updated your local branch to be the newest version of the base branch with (<code>git checkout main</code> , <code>git pull</code> , <code>git checkout BranchName</code> , <code>git rebase origin/main</code>
+    - make sure you have updated your local branch to be the newest version of the base branch with (<code>git checkout main</code> , <code>git pull</code> , <code>git checkout BranchName</code> , <code>git rebase origin/main</code>)
 4. You can check if your branch is up-to-date with your local copy using <code>git status</code>
   - this shows you if you have any new, modified or deleted files in your local copy that you haven't committed and uploaded to Github yet
 5. If other people are working on your branch (which shouldn't happen often), use <code>git pull</code> before starting any new work
